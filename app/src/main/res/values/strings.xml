@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">recruittutorial</string>
+    <string name="app_logo">Recruitment  Software</string>
+    <string name="the_jobplacer">Job Finder</string>
+    <string name="find_job">Find Your Dream Job Here</string>
+    <string name="login">Login</string>
+    <string name="register">Register \n</string>
+</resources>

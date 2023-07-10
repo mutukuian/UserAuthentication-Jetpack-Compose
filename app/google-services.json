@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "103329880054",
+    "project_id": "recruittutorial-bfe1e",
+    "storage_bucket": "recruittutorial-bfe1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103329880054:android:084d73bb584b2decd399d7",
+        "android_client_info": {
+          "package_name": "com.example.recruittutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103329880054-ke1f7u833io9lqje71e81okbeftndee2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxdAUoeQqzHYowV1OdqcW210y0YQttkB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103329880054-ke1f7u833io9lqje71e81okbeftndee2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
